@@ -2,7 +2,7 @@
 
 #### About me
 
-I am a front-end developer with 2 year of work experience, always looking for new opportunities to learn and develop my knowledge of the newest technologies. <br/>
+I am a front-end developer with 2 years of work experience, always looking for new opportunities to learn and develop my knowledge of the newest technologies. <br/>
 Welcome to my world, glad to see you there :wink:
 
 #### My stack: <br/>
